@@ -1,16 +1,15 @@
+
 ### Hi there 👋
+My name is **Quaky** and I'm fullstack developer. I mainly focus on game development in Unity.
 
-<!--
-**QuakyCZ/QuakyCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [BeastBlock](https://beastblock.cz) website and plugins.
+- 🌱 I’m currently learning C, Java, Unity, Photon Network.
+- 👯 I’m looking to collaborate on [Dungeon Dreams](https://github.com/QuakyCZ/DungeonDreams) - 2D RPG.
+- 🤔 I’m looking for help with C.
+- 😡 I really hate plain C.
+- ⚡ Fun fact: I'm student.
+- 📫 How to reach me:
+[![Download](https://img.shields.io/badge/Facebook-Page-blue)](https://www.facebook.com/QuakySoft)
+[![Discord](https://img.shields.io/discord/696370255592685599?color=green&label=Discord)](https://discord.gg/4pHE55e)
+[![Donate](https://img.shields.io/badge/MyGames-Itch.io-blue)](https://quaky.itch.io)
