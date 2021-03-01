@@ -3,10 +3,10 @@
 My name is **Quaky** and I'm fullstack developer. I mainly focus on game development in Unity.
 
 - 🤩 Projects I'm proud of: [Dungeon Dreams](https://github.com/QuakyCZ/DungeonDreams), [BeastBlock](https://beastblock.cz)
-- 🔭 I’m currently working on [Dochazka](https://github.com/QuakyCZ/Dochazka)
+- 🔭 I’m currently working on [BetonQuest Editor](https://github.com/QuakyCZ/BetonQuestEditor)
 - 🌱 I’m currently learning C, Java, Unity, Photon Network.
 - 👯 I’m looking to collaborate on [Dungeon Dreams](https://github.com/QuakyCZ/DungeonDreams) - 2D RPG.
-- 🤔 I’m looking for help with C.
+- 🤔 I’m looking for help with [BetonQuest Editor](https://github.com/QuakyCZ/BetonQuestEditor).
 - 😡 I really hate plain C.
 - ⚡ Fun fact: I'm student.
 - 📫 How to reach me:
