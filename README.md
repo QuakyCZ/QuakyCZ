@@ -13,3 +13,10 @@ My name is **Quaky** and I'm fullstack developer. I mainly focus on game develop
 [![Download](https://img.shields.io/badge/Facebook-Page-blue)](https://www.facebook.com/QuakySoft)
 [![Discord](https://img.shields.io/discord/696370255592685599?color=green&label=Discord)](https://discord.gg/4pHE55e)
 [![Donate](https://img.shields.io/badge/MyGames-Itch.io-blue)](https://quaky.itch.io)
+
+
+
+
+<a href="https://github.com/Danix25">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuakyCZ&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Danix25 Github Stats"/>
+</a>
