@@ -11,6 +11,6 @@ My name is **Quaky** and I'm fullstack developer. I mainly focus on game develop
 [![Discord](https://img.shields.io/discord/696370255592685599?color=green&label=Discord)](https://discord.gg/4pHE55e)
 [![Donate](https://img.shields.io/badge/MyGames-Itch.io-blue)](https://quaky.itch.io)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuakyCZ&show_icons=true&theme=tokyonight&text_color=ffffff&hide_border=true&icon_color=a2c4fc)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuakyCZ&show_icons=true&theme=tokyonight&text_color=ffffff&hide_border=true&icon_color=a2c4fc)](https://github.com/QuakyCZ)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuakyCZ&hide=ASP.net,HLSL,ShaderLab&theme=tokyonight&hide_border=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuakyCZ&hide=ASP.net,HLSL,ShaderLab&theme=tokyonight&hide_border=true&text_color=ffffff)](https://github.com/QuakyCZ)
